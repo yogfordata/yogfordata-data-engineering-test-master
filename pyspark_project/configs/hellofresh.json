@@ -1,0 +1,4 @@
+{
+  "stopwordslist": [" cups "," cup ","can "," ounce "," ounces ","teaspoon","weight ","quick ","regular"," to ","taste"," cut ","into","cubes","chopped","grated ","or"],"kafkaTopic" : "<placeholder>", "kafka.bootstrap.servers":"<placeholders>","inputFilePath": "input","outputFilePath": "output"
+
+}
